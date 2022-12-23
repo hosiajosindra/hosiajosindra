@@ -36,7 +36,15 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
- 
+   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
+        alt="pandas"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
 
 ### :snake: My Stats :
 

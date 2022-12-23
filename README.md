@@ -63,15 +63,6 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"
-        alt="tensorflow"
-        width="40" 
-        height="40" 
-        style="vertical-align:down; margin:4px"
-      />
-    </a>
     <a href="https://keras.io" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"

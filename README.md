@@ -1,8 +1,11 @@
 ### Hi, welcome to Hosay's github repository! 😃
 
 <p align="left">
- I'm an Undergraduate Mathematics Student at Universitas Indonesia.
+ 📖 I'm an Undergraduate Mathematics Student at Universitas Indonesia.
 </p> 
+<p align="left">
+ 👀 Hit me up!<a href="mailto:hosia.saragih@gmail.com"><strong>hosia.saragih@gmail.com</strong></a>
+</p>
 
 ### My skills 
 <p align="center">

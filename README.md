@@ -8,12 +8,14 @@
 </p>
 
 Things i've learned :
-<p align="center">
+<p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
         alt="python"
-        height="30"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
       />
     </a>
  

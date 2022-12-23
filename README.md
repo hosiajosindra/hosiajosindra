@@ -82,10 +82,7 @@ Things i've learned :
       />
     </a>
 
-
-### :snake: My Stats :
-
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=hosiajosindra)
+https://github-stats-alpha.vercel.app/api?username={hosiajosindra}
 
 <!--
 **hosiajosindra/hosiajosindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

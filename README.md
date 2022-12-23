@@ -27,6 +27,15 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
+   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://miro.medium.com/max/1400/1*vPezx00A1u0WAfS8e8wBXQ.webp"
+        alt="numpy"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
  
 
 ### :snake: My Stats :

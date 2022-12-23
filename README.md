@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, welcome to Hosay's github repository! 😃
+
+<p align="left">
+ I'm an Undergraduate Mathematics Student at Universitas Indonesia.
+</p> 
+
+### My skills 
+<p align="center">
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/hosiajosindra/hosiajosindra/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 
 ### :snake: My Stats :
 

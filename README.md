@@ -87,6 +87,10 @@ Things i've learned :
 </a>
 </p>
 
+<p aling="left">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosiajosindra"/>
+<p>
+
 <!--
 **hosiajosindra/hosiajosindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

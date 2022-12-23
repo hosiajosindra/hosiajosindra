@@ -1,4 +1,4 @@
-### Hi, welcome to Hosay's github repository! 😃
+### Hi, welcome to hosay's github repository! 😃
 
 <p align="left">
  📖 I'm an Undergraduate Mathematics Student at Universitas Indonesia.

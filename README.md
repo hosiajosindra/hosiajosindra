@@ -4,7 +4,7 @@
  📖 I'm an Undergraduate Mathematics Student at Universitas Indonesia.
 </p> 
 <p align="left">
- 👀 Hit me up! <a href="mailto:hosia.saragih@gmail.com">.<strong>hosia.saragih@gmail.com</strong></a>
+ 👀 Hit me up! <a href="mailto:hosia.saragih@gmail.com"><strong>hosia.saragih@gmail.com</strong></a>.
 </p>
 
 Things i've learned :

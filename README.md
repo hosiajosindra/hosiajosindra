@@ -7,9 +7,15 @@
  👀 Hit me up! <a href="mailto:hosia.saragih@gmail.com"><strong>hosia.saragih@gmail.com</strong></a>
 </p>
 
-### My skills 
+### Skills :
 <p align="center">
- <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+        alt="python"
+        height="30"
+      />
+    </a>
  
 
 ### :snake: My Stats :

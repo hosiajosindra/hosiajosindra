@@ -81,8 +81,13 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-
-https://github-stats-alpha.vercel.app/api?username={hosiajosindra}
+<p align="left">
+<a href="https://github.com/hosiajosindra">
+  <img align="center" src="https://github-stats-alpha.vercel.app/api?username={hosiajosindra}" alt="hosiajosindra" /></p>
+<br />
+<p align="left"><img align="center" src="https://github-stats-alpha.vercel.app/api?username={hosiajosindra}" alt="hosiajosindra" /></p>
+</a>
+</p>
 
 <!--
 **hosiajosindra/hosiajosindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -36,9 +36,9 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+   <a href="https://pandas.pydata.org/about/citing.html" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Grosser_Panda.JPG"
+        src="https://pandas.pydata.org/static/img/pandas_mark.svg"
         alt="pandas"
         width="40" 
         height="40" 

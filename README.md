@@ -81,11 +81,9 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-<p align="left">
+<p align="center">
 <a href="https://github.com/hosiajosindra">
   <img align="center" src="https://github-stats-alpha.vercel.app/api?username=hosiajosindra" alt="hosiajosindra" /></p>
-<br />
-<p align="left"><img align="center" src="https://github-stats-alpha.vercel.app/api?username=hosiajosindra" /></p>
 </a>
 </p>
 

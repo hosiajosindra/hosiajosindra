@@ -83,7 +83,7 @@ Things i've learned :
     </a>
 <p align="left">
 <a href="https://github.com/hosiajosindra">
-  <img align="center" src="https://github-stats-alpha.vercel.app/api?username=hosiajosindra" alt="hosiajosindra" />
+  <img align="left" src="https://github-stats-alpha.vercel.app/api?username=hosiajosindra" alt="hosiajosindra" />
 </a>
 </p>
 

@@ -36,7 +36,7 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-    <a href="https://pandas.pydata.org/about/citing.html" target="_blank" rel="noreferrer">
+    <a href="https://pandas.org" target="_blank" rel="noreferrer">
       <img
         src="https://pandas.pydata.org/static/img/pandas_mark.svg"
         alt="pandas"

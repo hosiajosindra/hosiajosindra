@@ -7,7 +7,7 @@
  👀 Hit me up! <a href="mailto:hosia.saragih@gmail.com"><strong>hosia.saragih@gmail.com</strong></a>.
 </p>
 
-Things i've learned :
+Things i've used and learned :
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img

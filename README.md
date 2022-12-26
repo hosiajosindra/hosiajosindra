@@ -81,6 +81,33 @@ Things i've learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
+  <a href="https://scipy.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://scipy.org/images/logo.svg"
+        alt="scipy"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
+  <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg"
+        alt="statsmodel"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
+  <a href="https://pypi.org/project/empiricaldist/" target="_blank" rel="noreferrer">
+      <img
+        src="https://pypi.org/static/images/logo-small.95de8436.svg"
+        alt="empiricaldist"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
 <p align="left">
 <a href="https://github.com/hosiajosindra">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hosiajosindra&show_icons=true&theme=default" alt="hosiajosindra" />

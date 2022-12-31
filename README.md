@@ -72,7 +72,7 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-   <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <a href="https://opencv.org" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"
         alt="opencv"
@@ -81,7 +81,25 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-  <a href="https://scipy.org" target="_blank" rel="noreferrer">
+    <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png"
+        alt="matplotlib"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
+   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+        alt="seaborn"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
+    <a href="https://scipy.org" target="_blank" rel="noreferrer">
       <img
         src="https://scipy.org/images/logo.svg"
         alt="scipy"
@@ -90,7 +108,7 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-  <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer">
+    <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer">
       <img
         src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg"
         alt="statsmodel"
@@ -99,7 +117,7 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-  <a href="https://pypi.org/project/empiricaldist/" target="_blank" rel="noreferrer">
+    <a href="https://pypi.org/project/empiricaldist/" target="_blank" rel="noreferrer">
       <img
         src="https://pypi.org/static/images/logo-small.95de8436.svg"
         alt="empiricaldist"

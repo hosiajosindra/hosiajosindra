@@ -128,12 +128,12 @@ Things i've used and learned :
     </a>
 <p align="left">
 <a href="https://github.com/hosiajosindra">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hosiajosindra&show_icons=true&theme=default" alt="hosiajosindra" />
+  <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hosiajosindra&show_icons=true&theme=default" alt="hosiajosindra" />
 </a>
 </p>
 
 <p aling="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hosiajosindra"/>
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hosiajosindra"/>
 <p>
 
 <!--

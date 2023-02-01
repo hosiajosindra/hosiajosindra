@@ -20,7 +20,7 @@ Things i've used and learned :
     </a>
     <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+        src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"
         alt="mysql"
         width="40" 
         height="40" 

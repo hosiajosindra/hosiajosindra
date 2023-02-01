@@ -27,13 +27,22 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
-    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
-        alt="jupyter"
+        src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"
+        alt="mysql"
         width="40" 
         height="40" 
         style="vertical-align:down; margin:4px"
+      />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"
+        alt="postgresql"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px" 
       />
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">

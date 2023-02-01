@@ -18,6 +18,15 @@ Things i've used and learned :
         style="vertical-align:down; margin:4px"
       />
     </a>
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"
+        alt="mysql"
+        width="40" 
+        height="40" 
+        style="vertical-align:down; margin:4px"
+      />
+    </a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
